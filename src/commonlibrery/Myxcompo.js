@@ -1,0 +1,1 @@
+export default Myxcompo=()=>console.log("testing")
